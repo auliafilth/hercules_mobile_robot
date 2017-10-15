@@ -15,37 +15,37 @@ I followed the given "Quick Start" assembly instructions. The [instructions on t
 
 **0. Peel off the protective sheets for the acrylic pieces. It allows them to be partially see-through which is nice for looking into the robot later**
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7873.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7873.JPG" height="30%" width="30%">
 
 **1. Build the chasis**
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7869.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7872.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7874.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7869.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7872.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7874.JPG" height="30%" width="30%">
 
 **2. Add the 4 motors. The two with encoders should be across from each other. Also note that you put in two screws per motor and there is a divot in each shaft**
 
 Note: Here I installed the encoder motors at different end than specified in the instructions. This is due to the location of the switch that is to be installed later. I opt-ed for the hole of the switch to be at the bottom than the top. See step 6 for more details.
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7878.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7880.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7878.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7880.JPG" height="30%" width="30%">
 
 **3. Make sure the hole in the motor shaft adapter is aligned with the divot and put the screw in**
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7883.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7882.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7884.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7883.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7882.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7884.JPG" height="30%" width="30%">
 
 **4. Add the wheels**
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7886.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7890.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7886.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7890.JPG" height="30%" width="30%">
 
 **5. Install the motor controller**
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7891.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7893.JPG" height="25%" width="25%">
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7894.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7891.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7893.JPG" height="30%" width="30%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7894.JPG" height="30%" width="30%">
 
 **6. Install the battery and switch**
 
@@ -53,13 +53,13 @@ NOTE: I originally installed the small acrylic piece to hold the battery in plac
 
 This part requires a small bit of soldering to attach the leads to the switch.
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7903.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7903.JPG" height="30%" width="30%">
 
 I decided to solder the leads to these two contacts for two reasons:
 (a). The switch is 'on' when toggled away from the wheel so there is more clearance in case the wheel picks up and debris.
 (b). There is more space and less precision is needed to hit the switch and kill power if needed. (Of course a large e-stop button is better. That will be future work.)
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7902.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7902.JPG" height="30%" width="30%">
 
 **7. Plug in the wires**
 
@@ -67,16 +67,16 @@ Plug in the motor wires as shown in the diagram. The "left" wheels go to M1 and 
 
 **DO NOT** cut the wires, you can pop out the contact with a small screw driver. Push down and pull the wire out.
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7907.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7907.JPG" height="30%" width="30%">
 
 For me, the red wires went to M2B and M1A banks.
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7908.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7908.JPG" height="30%" width="30%">
 
 **8. Plug in the UartSBee module**
 
 This guy will allow you to send commands and read encoders to/from the motor controller board.
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7909.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7909.JPG" height="30%" width="30%">
 
 ## Code Instructions
 
