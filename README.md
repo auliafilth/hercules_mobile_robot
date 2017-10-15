@@ -65,6 +65,18 @@ I decided to solder the leads to these two contacts for two reasons:
 (b). There is more space and less precision is needed to hit the switch and kill power if needed. (Of course a large e-stop button is better. That will be future work.)
 <img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7902.JPG" height="25%" width="25%">
 
+**7. Plug in the wires**
 
+Plug in the motor wires as shown in the diagram. The "left" wheels go to M1 and the "right" wheels go to M2. However, you will need to flip the contacts for either M1 or M2 wires because the "forward" command to the motor controller will spin the vehicle in place with the current setup. 
 
+DO NOT cut the wires, you can pop out the contact with a small screw driver. Push down and pull the wire out.
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7907.JPG" height="25%" width="25%">
+
+For me, the red wires went to M2B and M1A banks.
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7908.JPG" height="25%" width="25%">
+
+**8. Plug in the UartSBee module**
+
+This guy will allow you to send commands and read encoders to/from the motor controller board.
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7909.JPG" height="25%" width="25%">
 
