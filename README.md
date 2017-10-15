@@ -84,6 +84,6 @@ The sample code from their website does not work.
 * "DC_motor" example works out of the box 
 * Arduino IDE use "Atmega328" or "Pro / Mini"
 * enocder_demo from https://github.com/blueeyedcharlie/Hercules_Motor_Driver/
-..- Revolution-counter (tachometer)
-..- Make sure to get latest Arduion IDE 
+ - Revolution-counter (tachometer)
+ - Make sure to get latest Arduion IDE 
 
