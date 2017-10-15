@@ -4,8 +4,10 @@ The mobile platform of choice is the Hercules 4WD from Seeed. [I got mine from A
 https://www.amazon.com/Skeleton-Bot-Hercules-Robotic-Platform/dp/B01N4AGPTN/ref=sr_1_2?ie=UTF8&qid=1508102110&sr=8-2&keywords=hercules+4wd)
 
 ## Table of Contents
-[Build Instructions with Pictures]()
-[Code Instructions]()
+
+[Build Instructions with Pictures](https://github.com/johnny-wang/hercules_mobile_robot#build-instructions-with-pictures)
+
+[Code Instructions](https://github.com/johnny-wang/hercules_mobile_robot#code-instructions)
 
 ## Build Instructions with Pictures
 
