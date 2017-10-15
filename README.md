@@ -20,8 +20,8 @@ The sample code from their website does not work.
 I followed the given "Quick Start" assembly instructions. [The instructions on their wiki is more clear.](http://wiki.seeed.cc/Skeleton_Bot-4WD_hercules_mobile_robotic_platform/). Nonetheless, I took some pictures to document my step-by-step process.
 
 1. Build the chasis
-!(https://github.com/johnny-wang/hercules_mobile_robot/images/IMG_7869.JPG)
-!(https://github.com/johnny-wang/hercules_mobile_robot/images/IMG_7870.JPG)
+![](https://github.com/johnny-wang/hercules_mobile_robot/images/IMG_7869.JPG)
+![](https://github.com/johnny-wang/hercules_mobile_robot/images/IMG_7870.JPG)
 
 * Flip motor wires 
  i.e. If M1 is the left 2 tires and M2 are the right 2 tires, commanding them forward the robot spins in place.
