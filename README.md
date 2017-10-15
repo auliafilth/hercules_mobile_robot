@@ -21,7 +21,7 @@ I followed the given "Quick Start" assembly instructions. [The instructions on t
 
 0. Peel off the protective sheets for the acrylic pieces. It allows them to be partially see-through which is nice for looking into the robot later
 
-<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7869.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7873.JPG" height="25%" width="25%">
 
 1. Build the chasis
 
