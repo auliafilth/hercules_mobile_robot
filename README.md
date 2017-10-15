@@ -1,6 +1,6 @@
 # Hercules 4WD Mobile Platform
 
-The mobile platform of choice is the Hercules 4WD from Seeed. [I got mine from Amazon](
+The mobile platform of choice is the Hercules 4WD from Seeed. I got mine from [Amazon](
 https://www.amazon.com/Skeleton-Bot-Hercules-Robotic-Platform/dp/B01N4AGPTN/ref=sr_1_2?ie=UTF8&qid=1508102110&sr=8-2&keywords=hercules+4wd)
 
 ## Table of Contents
@@ -11,7 +11,7 @@ https://www.amazon.com/Skeleton-Bot-Hercules-Robotic-Platform/dp/B01N4AGPTN/ref=
 
 ## Build Instructions with Pictures
 
-I followed the given "Quick Start" assembly instructions. [The instructions on their wiki is more clear](http://wiki.seeed.cc/Skeleton_Bot-4WD_hercules_mobile_robotic_platform/). Nonetheless, I took some pictures to document my step-by-step process.
+I followed the given "Quick Start" assembly instructions. The [instructions on their wiki](http://wiki.seeed.cc/Skeleton_Bot-4WD_hercules_mobile_robotic_platform/) is more clear. Nonetheless, I took some pictures to document my step-by-step process.
 
 **0. Peel off the protective sheets for the acrylic pieces. It allows them to be partially see-through which is nice for looking into the robot later**
 
@@ -78,12 +78,12 @@ This guy will allow you to send commands and read encoders to/from the motor con
 
 The sample code from their website does not work.
 * Use the github code: https://github.com/Seeed-Studio/Hercules_Motor_Driver
-* Remove the "-master" from the directory name.
+* Remove the "-master" from the directory name after you download it.
 * Save directory to library folder of Arduino (in Documents of Mac)
-* Note: "motorDriverDemo" code does not work
+* Note: "motorDriverDemo" code does not work, it's the same from their website
 * "DC_motor" example works out of the box 
 * Arduino IDE use "Atmega328" or "Pro / Mini"
 * enocder_demo from https://github.com/blueeyedcharlie/Hercules_Motor_Driver/
-  Revolution-counter (tachometer)
-  Make sure to get latest Arduion IDE 
+..- Revolution-counter (tachometer)
+..- Make sure to get latest Arduion IDE 
 
