@@ -3,17 +3,9 @@
 The mobile platform of choice is the Hercules 4WD from Seeed. [I got mine from Amazon](
 https://www.amazon.com/Skeleton-Bot-Hercules-Robotic-Platform/dp/B01N4AGPTN/ref=sr_1_2?ie=UTF8&qid=1508102110&sr=8-2&keywords=hercules+4wd)
 
-## Code Instructions
-The sample code from their website does not work.
-* Use the github code: https://github.com/Seeed-Studio/Hercules_Motor_Driver
-* Remove the "-master" from the directory name.
-* Save directory to library folder of Arduino (in Documents of Mac)
-* Note: "motorDriverDemo" code does not work
-* "DC_motor" example works out of the box 
-* Arduino IDE use "Atmega328" or "Pro / Mini"
-* enocder_demo from https://github.com/blueeyedcharlie/Hercules_Motor_Driver/
-  Revolution-counter (tachometer)
-  Make sure to get latest Arduion IDE 
+## Table of Contents
+[Build Instructions with Pictures]()
+[Code Instructions]()
 
 ## Build Instructions with Pictures
 
@@ -79,4 +71,17 @@ For me, the red wires went to M2B and M1A banks.
 
 This guy will allow you to send commands and read encoders to/from the motor controller board.
 <img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7909.JPG" height="25%" width="25%">
+
+## Code Instructions
+
+The sample code from their website does not work.
+* Use the github code: https://github.com/Seeed-Studio/Hercules_Motor_Driver
+* Remove the "-master" from the directory name.
+* Save directory to library folder of Arduino (in Documents of Mac)
+* Note: "motorDriverDemo" code does not work
+* "DC_motor" example works out of the box 
+* Arduino IDE use "Atmega328" or "Pro / Mini"
+* enocder_demo from https://github.com/blueeyedcharlie/Hercules_Motor_Driver/
+  Revolution-counter (tachometer)
+  Make sure to get latest Arduion IDE 
 
