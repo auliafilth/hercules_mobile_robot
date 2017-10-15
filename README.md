@@ -40,6 +40,12 @@ I followed the given "Quick Start" assembly instructions. [The instructions on t
 <img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7882.JPG" height="25%" width="25%">
 <img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7884.JPG" height="25%" width="25%">
 
+4. Add the wheels
+
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7886.JPG" height="25%" width="25%">
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7890.JPG" height="25%" width="25%">
+
+
 * Flip motor wires 
  i.e. If M1 is the left 2 tires and M2 are the right 2 tires, commanding them forward the robot spins in place.
       This means you need to swap the wires on the M1 connector.
