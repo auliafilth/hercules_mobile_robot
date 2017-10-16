@@ -76,7 +76,16 @@ For me, the red wires went to M2B and M1A banks.
 **8. Plug in the UartSBee module**
 
 This guy will allow you to send commands and read encoders to/from the motor controller board.
+
 <img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7909.JPG" height="30%" width="30%">
+
+**9. Install the acrylic cover and metal shelf**
+
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7915.JPG" height="30%" width="30%">
+
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7916.JPG" height="30%" width="30%">
+
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7918.JPG" height="30%" width="30%">
 
 ## Code Instructions
 
