@@ -100,3 +100,6 @@ The sample code from their website does not work.
   - Revolution-counter (tachometer)
   - Make sure to get latest Arduion IDE 
 
+Running Hercules!
+
+<img src="https://raw.githubusercontent.com/johnny-wang/hercules_mobile_robot/master/images/IMG_7922.gif" height="50%" width="50%">
