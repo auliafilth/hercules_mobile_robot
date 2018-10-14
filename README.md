@@ -95,7 +95,7 @@ The sample code from their website does not work.
 * Save directory to library folder of Arduino (in Documents of Mac)
 * Note: "motorDriverDemo" code does not work, it's the same from their website
 * "DC_motor" example works out of the box 
-* Arduino IDE use "Atmega328" or "Pro / Mini"
+* Arduino IDE use "Atmega328P (5V, 16MHz)" and "Pro / Mini"
 * enocder_demo from https://github.com/blueeyedcharlie/Hercules_Motor_Driver/
   - Revolution-counter (tachometer)
   - Make sure to get latest Arduion IDE 
