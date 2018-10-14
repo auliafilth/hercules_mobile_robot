@@ -99,6 +99,7 @@ The sample code from their website does not work.
 * enocder_demo from https://github.com/blueeyedcharlie/Hercules_Motor_Driver/
   - Revolution-counter (tachometer)
   - Make sure to get latest Arduion IDE 
+* Copy of `encoder_demo.ino` and `DC_Motor.ino` are in examples/
 
 Running Hercules!
 
